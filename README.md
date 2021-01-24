@@ -10,9 +10,16 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>...</strong>
+  💼 Ferramentas desenvolvidas por mim: <strong>...</strong>
 </p>
-
+<ol>
+    <li><a href="https://github.com/faciltech/findFTP" alt="findFTP">findFTP</a></li>
+    <li><a href="https://github.com/faciltech/portScan" alt="portScan">portScan</a></li>
+    <li><a href="https://github.com/faciltech/dos.py" alt="Dos">Dos</a></li>
+    <li><a href="https://github.com/faciltech/searchinfo" alt="searchinfo">searchinfo</a></li>
+    <li><a href="https://github.com/faciltech/resdns" alt="resdns">resdns</a></li>
+    <li><a href="https://github.com/faciltech/achardir" alt="achardir">achardir</a></li>
+</ol>
 <p align="left">
   💌 Podem entrar em contato para troca de conhecimento: eduardo4amaral@protonmail.com ⤵️
 </p>
