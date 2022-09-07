@@ -19,6 +19,7 @@
     <li><a href="https://github.com/faciltech/searchinfo" alt="searchinfo">searchinfo</a></li>
     <li><a href="https://github.com/faciltech/resdns" alt="resdns">resdns</a></li>
     <li><a href="https://github.com/faciltech/achardir" alt="achardir">achardir</a></li>
+    <li><a href="https://github.com/faciltech/zap" alt="zap">zap</a></li>
 </ol>
 <p align="left">
   💌 Podem entrar em contato para troca de conhecimento: eduardo4amaral@protonmail.com ⤵️
