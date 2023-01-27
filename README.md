@@ -13,12 +13,9 @@
   💼 Ferramentas desenvolvidas por mim: <strong>...</strong>
 </p>
 <ol>
-    <li><a href="https://github.com/faciltech/findFTP" alt="findFTP">findFTP</a></li>
     <li><a href="https://github.com/faciltech/portScan" alt="portScan">portScan</a></li>
     <li><a href="https://github.com/faciltech/dos.py" alt="Dos">Dos</a></li>
-    <li><a href="https://github.com/faciltech/searchinfo" alt="searchinfo">searchinfo</a></li>
     <li><a href="https://github.com/faciltech/resdns" alt="resdns">resdns</a></li>
-    <li><a href="https://github.com/faciltech/achardir" alt="achardir">achardir</a></li>
     <li><a href="https://github.com/faciltech/zap" alt="zap">zap</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Tools OSCP Preparation</a></li>
 </ol>
