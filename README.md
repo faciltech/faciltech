@@ -15,7 +15,7 @@
 <ol>
     <li><a href="https://github.com/faciltech/portScan" alt="portScan">portScan</a></li>
     <li><a href="https://github.com/faciltech/dos.py" alt="Dos">Dos</a></li>
-    <li><a href="https://github.com/faciltech/resdns" alt="resdns">resdns</a></li>
+    <li><a href="https://github.com/faciltech/dnsrecon" alt="resdns">dnsrecon</a></li>
     <li><a href="https://github.com/faciltech/zap" alt="zap">zap</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Tools OSCP Preparation</a></li>
 </ol>
