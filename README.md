@@ -13,12 +13,12 @@
   💼 Ferramentas desenvolvidas por mim: <strong>...</strong>
 </p>
 <ol>
-    <li><a href="https://github.com/faciltech/portScan" alt="portScan">search-nmap</a></li>
+    <li><a href="https://github.com/faciltech/search-nmap" alt="search-nmap">search-nmap</a></li>
     <li><a href="https://github.com/faciltech/dos.py" alt="Dos">Dos</a></li>
     <li><a href="https://github.com/faciltech/dnsrecon" alt="resdns">dnsrecon</a></li>
     <li><a href="https://github.com/faciltech/zap" alt="zap">Scan</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Tools OSCP Preparation</a></li>
-    <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">searchinfo</a></li>
+    <li><a href="https://github.com/faciltech/searchinfo" alt="searchinfo">searchinfo</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">metodos.sh</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Template para pentest</a></li>
 
