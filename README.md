@@ -13,11 +13,15 @@
   💼 Ferramentas desenvolvidas por mim: <strong>...</strong>
 </p>
 <ol>
-    <li><a href="https://github.com/faciltech/portScan" alt="portScan">portScan</a></li>
+    <li><a href="https://github.com/faciltech/portScan" alt="portScan">search-nmap</a></li>
     <li><a href="https://github.com/faciltech/dos.py" alt="Dos">Dos</a></li>
     <li><a href="https://github.com/faciltech/dnsrecon" alt="resdns">dnsrecon</a></li>
-    <li><a href="https://github.com/faciltech/zap" alt="zap">zap</a></li>
+    <li><a href="https://github.com/faciltech/zap" alt="zap">Scan</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Tools OSCP Preparation</a></li>
+    <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">searchinfo</a></li>
+    <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">metodos.sh</a></li>
+    <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Template para pentest</a></li>
+
 </ol>
 <p align="left">
   💌 Podem entrar em contato para troca de conhecimento: eduardo4amaral@protonmail.com ⤵️
