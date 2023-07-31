@@ -16,7 +16,7 @@
     <li><a href="https://github.com/faciltech/search-nmap" alt="search-nmap">search-nmap</a></li>
     <li><a href="https://github.com/faciltech/dos.py" alt="Dos">Dos</a></li>
     <li><a href="https://github.com/faciltech/dnsrecon" alt="resdns">dnsrecon</a></li>
-    <li><a href="https://github.com/faciltech/scan.sh" alt="zap">Scan</a></li>
+    <li><a href="https://github.com/faciltech/scan/blob/main/README.md" alt="zap">Scan</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Tools OSCP Preparation</a></li>
     <li><a href="https://github.com/faciltech/searchinfo" alt="searchinfo">searchinfo</a></li>
     <li><a href="https://github.com/faciltech/metodo/tree/main" alt="metodos">metodos.sh</a></li>
