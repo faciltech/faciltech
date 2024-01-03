@@ -14,6 +14,7 @@
 </p>
 <ol>
     <li><a href="https://github.com/faciltech/search-nmap" alt="search-nmap">search-nmap</a></li>
+    <li><a href="https://github.com/faciltech/scan-user" alt="scan-user">scan-user</a></li>
     <li><a href="https://github.com/faciltech/dos.py" alt="Dos">Dos</a></li>
     <li><a href="https://github.com/faciltech/dnsrecon" alt="resdns">dnsrecon</a></li>
     <li><a href="https://github.com/faciltech/scan/blob/main/README.md" alt="zap">Scan</a></li>
