@@ -1,8 +1,22 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá sou Eduardo, e criei este espaço para compartilhar algumas ferramentas desenvolvidas por mim.<br>
- <strong> Espero que aproveitem !!!</strong>
+  Olá sou Eduardo, profissional de cibersegurança, criei este espaço para compartilhar algumas ferramentas desenvolvidas por mim.<br>
+  Possuo as seguintes certificaçoes:
+<ul>  
+<li>OSCP (Offensive Security Certified Professional)</li>
+<li>DCPT (Desec Certified Penetration Tester)</li>
+<li>CSCU (Certified Secure Computer User)</li>
+<li>NFS (Network Security Fundamentals v8)</li>
+<li>CCOC (Cellebrite Certified Operator Certification)</li>
+<li>CCPA (Cellebrite Certified Physical Analyst Certification )</li>
+<li>DELE B1, Instituto Cervantes</li>
+<li>NSE 1, Network Security Expert</li>
+<li>NSE 2, Network Security Expert</li>
+<li>CPME, Certificado Practitioner em Micro Expressões</li>
+<li>CNSS, Certified Network Security Specialist</li>
+</ul>
+ <strong> Espero que aproveitem, me coloco a disposição para eventuais contatos !!!</strong>
 </p>
 
 <p align="left">
@@ -13,8 +27,9 @@
   💼 Ferramentas desenvolvidas por mim: <strong>...</strong>
 </p>
 <ol>
-    <li><a href="https://github.com/faciltech/search-nmap" alt="search-nmap">search-nmap</a></li>
+    <li><a href="https://github.com/faciltech/scan-hosts" alt="scan-user">scan-hosts</a></li>
     <li><a href="https://github.com/faciltech/scan-user" alt="scan-user">scan-user</a></li>
+    <li><a href="https://github.com/faciltech/search-nmap" alt="search-nmap">search-nmap</a></li>
     <li><a href="https://github.com/faciltech/dos.py" alt="Dos">Dos</a></li>
     <li><a href="https://github.com/faciltech/dnsrecon" alt="resdns">dnsrecon</a></li>
     <li><a href="https://github.com/faciltech/scan/blob/main/README.md" alt="zap">Scan</a></li>
