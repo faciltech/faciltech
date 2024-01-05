@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  <..> Linguagens: <strong>Shell Script, Python, PHP ... </strong>
+  <..> Linguagens: <strong>Pentest, OSINT, Shell Script, Python, PHP ... </strong>
 </p>
 
 <p align="left">
