@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá sou Eduardo, profissional de cibersegurança, professor e pesquisador. Criei este espaço para compartilhar algumas ferramentas desenvolvidas por mim.<br>
+  <i style="color:#538b">Olá sou Eduardo, profissional de cibersegurança, professor e pesquisador. Criei este espaço para compartilhar algumas ferramentas desenvolvidas por mim.<i><br>
   Minha formação academica:
   <ul>  
 <li>Tecnólogo em Redes de Computadores</li>
