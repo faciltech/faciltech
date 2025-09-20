@@ -2,6 +2,13 @@
 
 <p align="left"> 
   Olá sou Eduardo, profissional de cibersegurança, criei este espaço para compartilhar algumas ferramentas desenvolvidas por mim.<br>
+  Minha formação academica:
+  <ul>  
+<li>Tecnólogo em Redes de Computadores</li>
+<li>Pós-Graduado em Ethica Hacker e Cibersegurança</li>
+<li>Pós-Graduado em Inteligencia Cibernética</li>
+<li>Pós-Graduado em Inteligencia em Fontes Abertas</li>
+</ul>
   Possuo as seguintes certificaçoes:
 <ul>  
 <li>OSCP (Offensive Security Certified Professional)</li>
