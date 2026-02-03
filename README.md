@@ -44,6 +44,8 @@
     <li><a href="https://github.com/faciltech/searchinfo" alt="searchinfo">searchinfo</a></li>
     <li><a href="https://github.com/faciltech/metodo/tree/main" alt="metodos">metodos</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Template para pentest</a></li>
+    <li><a href="https://github.com/faciltech/Tiktok-scan" alt="Tiktok-scan">Tiktok-Scan</a></li>  
+  
 
 </ol>
 <p align="left">
