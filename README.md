@@ -40,7 +40,7 @@
     <li><a href="https://github.com/faciltech/Tiktok-scan" alt="Tiktok-scan">Tiktok Scan (OSINT - PENTEST)</a></li>
     <li><a href="https://github.com/faciltech/search-nmap" alt="search-nmap">search-nmap (PENTEST)</a></li>
     <li><a href="https://github.com/faciltech/dnsrecon" alt="resdns">Dnsrecon (OSINT - PENTEST)</a></li>
-    <li><a href="https://github.com/faciltech/scan/blob/main/README.md" alt="zap">Scan</a></li>
+    <li><a href="https://github.com/faciltech/scan" alt="scan">Scan</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Tools OSCP Preparation</a></li>
     <li><a href="https://github.com/faciltech/searchinfo" alt="searchinfo">Searchinfo (OSINT - PENTEST</a></li>
     <li><a href="https://github.com/faciltech/scan-port-full" alt="scan-port-full">Scan Port Full (OSINT - PENTEST)</a></li>
