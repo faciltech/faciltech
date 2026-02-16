@@ -43,7 +43,7 @@
     <li><a href="https://github.com/faciltech/scan/blob/main/README.md" alt="zap">Scan</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Tools OSCP Preparation</a></li>
     <li><a href="https://github.com/faciltech/searchinfo" alt="searchinfo">Searchinfo</a></li>
-    <li><a href="https://github.com/faciltech/metodo/tree/main" alt="metodos">metodos</a></li>
+    <li><a href="https://github.com/faciltech/scan-port-full" alt="scan-port-full">Scan Port Full</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Template para pentest</a></li>
     <li><a href="https://github.com/faciltech/extrator_de_timestamp_google_maps" alt="extrator_de_timestamp_google_maps">Extrator de Timestamp do Google Maps</a></li>  
   
