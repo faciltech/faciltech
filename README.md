@@ -34,16 +34,18 @@
   💼 Ferramentas desenvolvidas por mim: <strong>...</strong>
 </p>
 <ol>
-    <li><a href="https://github.com/faciltech/scan-hosts" alt="scan-user">scan-hosts</a></li>
-    <li><a href="https://github.com/faciltech/scan-user" alt="scan-user">scan-user</a></li>
+    <li><a href="https://github.com/faciltech/scan-hosts" alt="scan-user">Scan Hosts</a></li>
+    <li><a href="https://github.com/faciltech/scan-user" alt="scan-user">Scan User</a></li>
+    <li><a href="https://github.com/faciltech/Extrator-TwitterX" alt="Extrator-TwitterX">Extrator Twitter X</a></li>
+    <li><a href="https://github.com/faciltech/Tiktok-scan" alt="Tiktok-scan">Tiktok Scan</a></li>
     <li><a href="https://github.com/faciltech/search-nmap" alt="search-nmap">search-nmap</a></li>
-    <li><a href="https://github.com/faciltech/dnsrecon" alt="resdns">dnsrecon</a></li>
+    <li><a href="https://github.com/faciltech/dnsrecon" alt="resdns">Dnsrecon</a></li>
     <li><a href="https://github.com/faciltech/scan/blob/main/README.md" alt="zap">Scan</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Tools OSCP Preparation</a></li>
-    <li><a href="https://github.com/faciltech/searchinfo" alt="searchinfo">searchinfo</a></li>
+    <li><a href="https://github.com/faciltech/searchinfo" alt="searchinfo">Searchinfo</a></li>
     <li><a href="https://github.com/faciltech/metodo/tree/main" alt="metodos">metodos</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Template para pentest</a></li>
-    <li><a href="https://github.com/faciltech/Tiktok-scan" alt="Tiktok-scan">Tiktok-Scan</a></li>  
+    <li><a href="https://github.com/faciltech/extrator_de_timestamp_google_maps" alt="extrator_de_timestamp_google_maps">Extrator de Timestamp do Google Maps</a></li>  
   
 
 </ol>
