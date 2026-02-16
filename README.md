@@ -40,9 +40,9 @@
     <li><a href="https://github.com/faciltech/Tiktok-scan" alt="Tiktok-scan">Tiktok Scan (OSINT - PENTEST)</a></li>
     <li><a href="https://github.com/faciltech/search-nmap" alt="search-nmap">Search NMAP (PENTEST)</a></li>
     <li><a href="https://github.com/faciltech/dnsrecon" alt="resdns">Dnsrecon (OSINT - PENTEST)</a></li>
-    <li><a href="https://github.com/faciltech/scan" alt="scan">Scan</a></li>
+    <li><a href="https://github.com/faciltech/scan" alt="scan">Scan (PENTEST)</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Tools OSCP Preparation</a></li>
-    <li><a href="https://github.com/faciltech/searchinfo" alt="searchinfo">Searchinfo (OSINT - PENTEST</a></li>
+    <li><a href="https://github.com/faciltech/searchinfo" alt="searchinfo">Searchinfo (OSINT - PENTEST)</a></li>
     <li><a href="https://github.com/faciltech/scan-port-full" alt="scan-port-full">Scan Port Full (OSINT - PENTEST)</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Template para pentest</a></li>
     <li><a href="https://github.com/faciltech/extrator_de_timestamp_google_maps" alt="extrator_de_timestamp_google_maps">Extrator de Timestamp do Google Maps (OSINT)</a></li>  
