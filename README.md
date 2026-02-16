@@ -34,18 +34,18 @@
   💼 Ferramentas desenvolvidas por mim: <strong>...</strong>
 </p>
 <ol>
-    <li><a href="https://github.com/faciltech/scan-hosts" alt="scan-user">Scan Hosts</a></li>
-    <li><a href="https://github.com/faciltech/scan-user" alt="scan-user">Scan User</a></li>
-    <li><a href="https://github.com/faciltech/Extrator-TwitterX" alt="Extrator-TwitterX">Extrator Twitter X</a></li>
-    <li><a href="https://github.com/faciltech/Tiktok-scan" alt="Tiktok-scan">Tiktok Scan</a></li>
-    <li><a href="https://github.com/faciltech/search-nmap" alt="search-nmap">search-nmap</a></li>
-    <li><a href="https://github.com/faciltech/dnsrecon" alt="resdns">Dnsrecon</a></li>
+    <li><a href="https://github.com/faciltech/scan-hosts" alt="scan-user">Scan Hosts (OSINT - PENTEST)</a></li> 
+    <li><a href="https://github.com/faciltech/scan-user" alt="scan-user">Scan User (OSINT)</a></li>
+    <li><a href="https://github.com/faciltech/Extrator-TwitterX" alt="Extrator-TwitterX">Extrator Twitter X (OSINT)</a></li>
+    <li><a href="https://github.com/faciltech/Tiktok-scan" alt="Tiktok-scan">Tiktok Scan (OSINT - PENTEST)</a></li>
+    <li><a href="https://github.com/faciltech/search-nmap" alt="search-nmap">search-nmap (PENTEST)</a></li>
+    <li><a href="https://github.com/faciltech/dnsrecon" alt="resdns">Dnsrecon (OSINT - PENTEST)</a></li>
     <li><a href="https://github.com/faciltech/scan/blob/main/README.md" alt="zap">Scan</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Tools OSCP Preparation</a></li>
-    <li><a href="https://github.com/faciltech/searchinfo" alt="searchinfo">Searchinfo</a></li>
-    <li><a href="https://github.com/faciltech/scan-port-full" alt="scan-port-full">Scan Port Full</a></li>
+    <li><a href="https://github.com/faciltech/searchinfo" alt="searchinfo">Searchinfo (OSINT - PENTEST</a></li>
+    <li><a href="https://github.com/faciltech/scan-port-full" alt="scan-port-full">Scan Port Full (OSINT - PENTEST)</a></li>
     <li><a href="https://github.com/faciltech/Tools_OSCP_Preparation/wiki" alt="Tools_OSCP_Preparation">Template para pentest</a></li>
-    <li><a href="https://github.com/faciltech/extrator_de_timestamp_google_maps" alt="extrator_de_timestamp_google_maps">Extrator de Timestamp do Google Maps</a></li>  
+    <li><a href="https://github.com/faciltech/extrator_de_timestamp_google_maps" alt="extrator_de_timestamp_google_maps">Extrator de Timestamp do Google Maps (OSINT)</a></li>  
   
 
 </ol>
