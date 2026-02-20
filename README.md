@@ -34,7 +34,8 @@
   💼 Ferramentas desenvolvidas por mim: <strong>...</strong>
 </p>
 <ol>
-    <li><a href="https://github.com/faciltech/scan-hosts" alt="scan-user">Scan Hosts (OSINT - PENTEST)</a></li> 
+    <li><a href="https://github.com/faciltech/scan_user" alt="scan user 2">Scan User 2 (OSINT - PENTEST)</a></li>   
+    <li><a href="https://github.com/faciltech/scan-hosts" alt="scan host">Scan Hosts (OSINT - PENTEST)</a></li> 
     <li><a href="https://github.com/faciltech/scan-user" alt="scan-user">Scan User (OSINT)</a></li>
     <li><a href="https://github.com/faciltech/Extrator-TwitterX" alt="Extrator-TwitterX">Extrator Twitter X (OSINT)</a></li>
     <li><a href="https://github.com/faciltech/Tiktok-scan" alt="Tiktok-scan">Tiktok Scan (OSINT - PENTEST)</a></li>
